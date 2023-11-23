@@ -20,6 +20,8 @@
 
 ![Cover2](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/03.png)
 
+![Cover1-1](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/01-1.png)![Cover1-2](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/01-2.png)
+
 ![Cover3](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/02.png)
 
 ![Cover4](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/05.png)
