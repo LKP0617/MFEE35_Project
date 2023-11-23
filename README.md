@@ -16,8 +16,8 @@
 
 ![Cover1](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/01.png)
 
-![Cover2](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/02.png)
+![Cover2](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/03.png)
 
-![Cover3](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/03.png)
+![Cover3](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/02.png)
 
 ![Cover4](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/05.png)
