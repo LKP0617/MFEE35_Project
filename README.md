@@ -6,5 +6,7 @@
 <p>在這個專案中，我是負責製作商品顯示頁面跟商品的分類，會員"我的最愛"資料庫的寫入、寫出以及"我的最愛"頁面和顯示會員資料庫中的資料。</p>
 
 ![Cover1](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/01.png)
+
 ![Cover2](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/02.png)
+
 ![Cover3](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/03.png)
