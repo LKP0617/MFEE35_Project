@@ -8,6 +8,12 @@
 
 在這個專案中，我是負責頁面有 顯示全部商品頁面、我的最愛頁面 和 熱門團主排行頁面。
 
+全部商品頁面 - 顯示全部商品、商品的標籤分類、團主的資料顯示
+
+我的最愛頁面 - 顯示登入會員的收藏商品
+
+熱門團主排行頁面 - 依照跟團人數顯示前三名開團主
+
 ![Cover1](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/01.png)
 
 ![Cover2](https://github.com/LKP0617/MFEE35_Project/blob/main/public/media/read_pic/02.png)
